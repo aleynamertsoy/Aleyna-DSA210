@@ -1,7 +1,7 @@
 # TikTok Usage Analysis: Trends, Patterns, and User Behavior
 
 ## Motivation
-TikTok has become one of the most widely used social media platforms, shaping trends, influencing behavior, and engaging users worldwide. This project aims to analyze personal TikTok usage data to uncover insights about usage patterns, engagement trends, and content interaction. By leveraging our own data, we will gain a deeper understanding of how we interact with the platform over time.
+TikTok has become one of the most widely used social media platforms, shaping trends, influencing behavior, and engaging users worldwide. This project aims to analyze personal TikTok usage data to uncover insights about usage patterns, engagement trends, and content interaction. By leveraging my own data, I will gain a deeper understanding of how I interact with the platform over time.
 
 ## Data Source
 The data for this project will be collected directly from the TikTok app:
